@@ -7,12 +7,14 @@ This repository consists of following projects:
 
    * rag_main.ipynb: Main RAG notebook.  This file consists consists of:
 
-      a) RAG pipeline
+        a) RAG pipeline
      
-      b) Advanced pipeline
+        b) Advanced pipeline
 
-      c) RAG Index persistence in ChromaDB
+        c) RAG Index persistence in ChromaDB
 
-      d) technique to extract data citation, along with metadata and node details
+        d) technique to extract data citation, along with metadata and node details
 
-   
+   * rag_metrics.ipynb: Show how to measure accuracy of RAG retrieval.  Here, we use Relevancy metric
+
+   * rag_hybrid_query.ipynb: Show how to implement hybrid search (vector and keyword searches) using Llamaindex
