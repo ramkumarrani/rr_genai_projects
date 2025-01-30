@@ -23,5 +23,5 @@ The RAG folder consists of requirements.txt - list of Python packages required t
 
 <b>NOT COVERED:<b> This RAG project does not cover implementation of DOCLING.  My reading shows DOCLING is more versatile than LlamaIndex data source: SimpleDirectoryReader. I will cover `docling` implementation in the future release. 
 
-<br>
+< br / >
 <b>AI-Agents:</b> WIP.............
