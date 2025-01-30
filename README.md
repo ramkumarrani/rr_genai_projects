@@ -18,3 +18,5 @@ This repository consists of following projects:
    * rag_metrics.ipynb: Show how to measure accuracy of RAG retrieval.  Here, we use Relevancy metric
 
    * rag_hybrid_query.ipynb: Show how to implement hybrid search (vector and keyword searches) using Llamaindex
+
+<b>NOT COVERED:<b> This RAG project does not cover implementation of DOCLING.  My reading shows DOCLING is more versatile than LlamaIndex data source: SimpleDirectoryReader. I will cover `docling` implementation in the future release. 
