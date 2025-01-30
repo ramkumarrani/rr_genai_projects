@@ -5,15 +5,15 @@ This repository consists of following projects:
 
 <b>1. RAG: Retrieval Augmented Generation.  This folder consists of following notebook files:</b>
 
-   * rag_main.ipynb: Main RAG notebook.  This file consists consists of:
+   * rag_main.ipynb: Main RAG notebook.  This file shows code base for the following components:
 
-        a) RAG pipeline
+        a) RAG (Naive) pipeline
      
-        b) Advanced pipeline
+        b) Advanced RAG pipeline
 
         c) RAG Index persistence in ChromaDB
 
-        d) technique to extract data citation, along with metadata and node details
+        d) Technique to extract citation, along with metadata and node details
 
    * rag_metrics.ipynb: Show how to measure accuracy of RAG retrieval.  Here, we use Relevancy metric
 
