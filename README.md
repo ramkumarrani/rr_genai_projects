@@ -3,7 +3,7 @@ For GenAI projects
 
 This repository consists of following projects:
 
-1. RAG: Retrieval Augmented Generation.  This folder consists of following notebook files:
+<b>1. RAG: Retrieval Augmented Generation.  This folder consists of following notebook files:</b>
 
    * rag_main.ipynb: Main RAG notebook.  This file consists consists of:
 
