@@ -8,8 +8,11 @@ This repository consists of following projects:
    * rag_main.ipynb: Main RAG notebook.  This file consists consists of:
 
       a) RAG pipeline
+     
       b) Advanced pipeline
+
       c) RAG Index persistence in ChromaDB
+
       d) technique to extract data citation, along with metadata and node details
 
    
